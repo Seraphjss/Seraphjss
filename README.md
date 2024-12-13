@@ -1,26 +1,10 @@
-# Seraph - Uxoi
-Hi how are things? Welcome to my profile. And taking advantage of the fact that you are here, I will tell you a little about myself.
+<a href="https://discord.com/users/990604235362140180" target="_blank">
+    <img width="50%" align="right" alt="Discord" src="https://lanyard.cnrad.dev/api/990604235362140180?showDisplayName=true&theme=dark&bg=&borderRadius=10px&idleMessage=Is%20there%20nothing%20to%20show%3F%20I%20think%20I'm%20sleeping%2C%20I%20don't%20know.&hideTimestamp=false&hideProfile=false">
+</a>
+<a href="https://wakatime.com/@seraphjs" target="_blank">
+    <img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=seraphjs&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
 
-## Who I am?
-I am a programming fan, I dedicate myself to creating small libraries for JS. But mainly, I am dedicated to continuing with my current projects :).
+I'm just a guy who likes to program, loves JavaScript and... I don't know what else to say.
 
-## Projects 🚀
-- Syntx.js
-  - A library for NodeJS that allows you to create Discord bots in a "faster" way so to speak.
-  - Developing
-- API
-  - My team's API (which by the way is the owner), where we have different useful endpoints for your applications, although it was created mainly to be used for Discord bots.
-  - [Home (lacks re-design)](https://api.erxproject.xyz)
-  - [Endpoints](https://api.erxproject.xyz/endpoints)
-- Home
-  - My main team's website. Where we provide various services, which for now are:
-    - [API](https://api.erxproject.xyz)
-    - [Multimedia host [1]](https://api.erxproject.xyz/cdn)
-    - [Multimedia host [2]](https://cdn.erxproject.xyz)
-    - [User (acquire your key for some endpoints of our API)](https://user.erxproject.xyz)
-## Tools
-The tools I mainly use when it's time to program ;)
-| | | | |
-|------------|------------|------------|------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow) | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) | [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/invite/QQrSgyvykj) | |
+**Note: I don't know how to use GitHub**
